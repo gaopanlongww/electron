@@ -14,3 +14,5 @@ apt-get install libsodium-dev
 redhat版本可以使用deb转rpm包工具 （本人随后会在centos发布其他版本支持ssr）
 deb的包可以直接打开用软件安装（当然仅限debian）。安装此ssr需要安装python2.7：wget -c https://www.python.org/ftp/python/2.7.9/Python-2.7.9.tgz 
 解压安装即可。
+另外安装完成后可以通过订阅地址更新订阅也可以通过gui-config.json文件来更新订阅节点。
+最后一步在网络里设置一下，图片项目里面有。
